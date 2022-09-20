@@ -1,0 +1,3957 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 1"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 2"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 3"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 4"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 5"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 6"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 7"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 8"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 9"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 10"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 11"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 12"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 13"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 14"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 15"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 16"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 17"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 18"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.84934,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 19"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 20"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 21"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 22"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 23"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 24"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 25"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 26"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 27"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 28"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 29"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 30"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 31"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 32"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 33"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 34"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 35"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 36"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 37"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.840661,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 38"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 39"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 40"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 41"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 42"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 43"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 44"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 45"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 46"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 47"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 48"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 49"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 50"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 51"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 52"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 53"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 54"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 55"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 56"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.831982,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 57"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 58"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 59"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 60"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 61"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 62"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 63"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 64"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 65"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 66"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 67"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 68"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 69"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 70"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 71"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 72"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 73"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 74"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 75"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.823303,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 76"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 77"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 78"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 79"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 80"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 81"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 82"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 83"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 84"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 85"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 86"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 87"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 88"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 89"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 90"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 91"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 92"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 93"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 94"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.814624,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 95"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 96"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 97"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 98"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 99"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 100"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 101"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 102"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 103"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 104"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 105"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 106"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 107"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 108"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 109"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 110"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 111"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 112"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 113"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.805944999999998,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 114"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 115"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 116"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 117"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 118"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 119"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 120"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 121"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 122"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 123"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 124"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 125"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 126"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 127"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 128"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 129"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 130"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 131"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 132"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.797265999999997,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 133"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 134"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 135"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 136"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 137"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 138"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 139"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 140"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 141"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 142"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 143"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 144"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 145"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 146"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 147"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 148"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 149"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 150"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 151"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.788586999999996,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 152"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 153"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 154"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 155"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 156"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 157"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 158"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 159"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 160"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 161"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 162"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 163"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 164"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 165"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 166"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 167"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 168"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 169"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 170"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.779907999999995,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 171"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 172"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 173"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 174"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 175"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 176"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 177"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 178"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 179"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 180"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 181"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 182"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 183"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 184"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 185"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 186"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 187"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 188"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 189"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.771228999999995,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 190"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 191"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 192"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 193"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 194"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 195"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 196"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 197"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 198"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 199"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 200"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 201"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 202"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 203"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 204"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 205"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 206"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 207"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 208"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.762549999999994,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 209"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 210"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 211"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 212"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 213"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 214"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 215"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 216"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 217"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 218"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 219"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 220"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 221"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 222"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 223"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 224"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 225"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 226"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 227"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.753870999999993,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 228"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.31006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 229"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.29907399999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 230"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.28808799999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 231"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.27710199999999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 232"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.26611599999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 233"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.25512999999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 234"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.24414399999998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 235"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.23315799999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 236"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.22217199999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 237"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.21118599999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 238"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.20019999999997
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 239"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.18921399999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 240"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.17822799999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 241"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.16724199999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 242"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.15625599999996
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 243"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.14526999999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 244"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.13428399999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 245"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.12329799999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 246"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.745191999999992,
+          -80.11231199999995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "bearing": 0,
+        "zoom": 14,
+        "pitch": 0,
+        "title": "tile 247"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
