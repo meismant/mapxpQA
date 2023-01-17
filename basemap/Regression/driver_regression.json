@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.64736, -73.78499]
+      },
+      "properties": {
+        "title": "[land_use-airport] John Kennedy Airport zoom 9",
+        "zoom": 9,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.78171, -73.96612]
+      },
+      "properties": {
+        "title": "[land_use-municipal_park] Central park zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.55195, -73.92045]
+      },
+      "properties": {
+        "title": "[land_use-beach] Surfs Up Breezy zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.644786, -73.783704]
+      },
+      "properties": {
+        "title": "[land_use-parking] John Kennedy Airport zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.63808, -73.76495]
+      },
+      "properties": {
+        "title": "[land_use-grass] John Kennedy Airport zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.65214, -73.98948]
+      },
+      "properties": {
+        "title": "[land_use-cemetery] The Green-Wood Cemetery zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.42374, -74.63797]
+      },
+      "properties": {
+        "title": "[water-navigation] Water zoom 2",
+        "zoom": 2,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.72452, -74.01316]
+      },
+      "properties": {
+        "title": "[water-navigation] Hudson River zoom 8",
+        "zoom": 8,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.42374, -74.63797]
+      },
+      "properties": {
+        "title": "[water-navigation] Water zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.42374, -74.63797]
+      },
+      "properties": {
+        "title": "[water-navigation-centerline] Centerline river zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.42374, -74.63797]
+      },
+      "properties": {
+        "title": "[water-navigation-centerline] Centerline river zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.64363, -73.78304]
+      },
+      "properties": {
+        "title": "[buildinglabel-airport] John Kennedy Airport zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.08, -77.8]
+      },
+      "properties": {
+        "title": "[locality_label-navigation][admin_boundary-navigation] America zoom 1",
+        "zoom": 1,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.08, -77.8]
+      },
+      "properties": {
+        "title": "[locality_label-navigation-state] zoom 4",
+        "zoom": 4,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.461, -73.845]
+      },
+      "properties": {
+        "title": "[locality_label-navigation-city] zoom 6",
+        "zoom": 6,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.8839, -74.136]
+      },
+      "properties": {
+        "title": "[locality_label-navigation-town] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.74297, -73.97438]
+      },
+      "properties": {
+        "title": "[locality_label-navigation-neighborhood] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.08, -77.8]
+      },
+      "properties": {
+        "title": "[admin_boundary-navigation-state] zoom 3",
+        "zoom": 3,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7588817, -122.4157881]
+      },
+      "properties": {
+        "title": "[closures-signs][closure-line-one-side] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7588817, -122.4157881]
+      },
+      "properties": {
+        "title": "[closures-signs][closure-line-one-side] zoom 17",
+        "zoom": 17,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+  ]
+}

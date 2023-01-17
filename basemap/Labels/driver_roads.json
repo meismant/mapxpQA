@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 6",
+        "zoom": 6,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 7",
+        "zoom": 7,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 8",
+        "zoom": 8,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 9",
+        "zoom": 9,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads]] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads]] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0572591, -118.2482193]
+      },
+      "properties": {
+        "title": "[Roads]] zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+  ]
+}

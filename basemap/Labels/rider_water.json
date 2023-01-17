@@ -1,0 +1,237 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.085968, -120.046652]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] zoom 0",
+        "zoom": 0,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0885325, -120.0503511]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Lake Tahoe[>=7.5km] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0885325, -120.0503511]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Lake Tahoe[>=7.5km] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0885325, -120.0503511]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Lake Tahoe[>=7.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.5967606, -122.4262374]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] San Andreas Lake[>=1.25km] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.5967606, -122.4262374]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] San Andreas Lake[>=1.25km] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.5967606, -122.4262374]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] San Andreas Lake[>=1.25km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.4702398, -121.9460853]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Coyote Creek Logoon[>=0.5km] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.4702398, -121.9460853]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Coyote Creek Logoon[>=0.5km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.4702398, -121.9460853]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Coyote Creek Logoon[>=0.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.55265335, -122.4282453]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Pilarcitos Lake[>=0.08km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.55265335, -122.4282453]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Pilarcitos Lake[>=0.08km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.55265335, -122.4282453]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Pilarcitos Lake[>=0.08km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7734193, -122.3943959]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Mission Creek[>=0.04km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7734193, -122.3943959]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Mission Creek[>=0.04km] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7734193, -122.3943959]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Mission Creek[>=0.04km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    }
+  ]
+}

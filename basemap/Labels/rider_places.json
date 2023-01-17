@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.886342, -77.008232]
+      },
+      "properties": {
+        "title": "[places_office] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.878328, -77.006666]
+      },
+      "properties": {
+        "title": "[places_business] zoom 15",
+        "zoom": 15.5,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.846255, -77.124699]
+      },
+      "properties": {
+        "title": "[places_finance] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.906348, -77.04165]
+      },
+      "properties": {
+        "title": "[places_restaurant][places_bar] zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.90058, -77.02019]
+      },
+      "properties": {
+        "title": "[places_lodging-primary][places_entertainment] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.923832, -77.020909]
+      },
+      "properties": {
+        "title": "[places_university] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.88591, -76.995716]
+      },
+      "properties": {
+        "title": "[places_grocery] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.928828, -77.012574]
+      },
+      "properties": {
+        "title": "[places_healthcare-hospital] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.89007, -77.00447]
+      },
+      "properties": {
+        "title": "[places_city-hall][places_landmark] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.89007, -77.00447]
+      },
+      "properties": {
+        "title": "[places_transport_important][places_malls] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.84799, -77.04417]
+      },
+      "properties": {
+        "title": "[places_airport] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.895831, -77.107816]
+      },
+      "properties": {
+        "title": "[places_automotive] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.897373, -77.036557]
+      },
+      "properties": {
+        "title": "[places_civic-other] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.909017, -77.043564]
+      },
+      "properties": {
+        "title": "[places_healthcare-other] zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.89725, -77.048337]
+      },
+      "properties": {
+        "title": "[places_lodging-other][places_education-other][land_use-parking-p] zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.893591, -77.028429]
+      },
+      "properties": {
+        "title": "[places_transport_all] zoom 17",
+        "zoom": 17,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.90287, -77.039511]
+      },
+      "properties": {
+        "title": "[places_transport_train] zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.645046, -73.779192]
+      },
+      "properties": {
+        "title": "[places_airport-terminal] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    }
+  ]
+}
