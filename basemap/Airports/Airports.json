@@ -1,6 +1,178 @@
 {
   "type": "FeatureCollection",
-  "features": [
+  "features": [   
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.795410, -80.275194]
+      },
+      "properties": {
+        "title": "MIA zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.979422, -87.902229]
+      },
+      "properties": {
+        "title": "CHI zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },   
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.682345, -79.610626]
+      },
+      "properties": {
+        "title": "YYZ zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.691929, -74.181482]
+      },
+      "properties": {
+        "title": "EWR zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.878572, -75.242684]
+      },
+      "properties": {
+        "title": "PHL zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.897789, -97.040380]
+      },
+      "properties": {
+        "title": "DFW zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.588465, -122.592213]
+      },
+      "properties": {
+        "title": "PDX zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.61643492261586, -122.38610182431604]
+      },
+      "properties": {
+        "title": "SFO zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.645233, -73.784109]
+      },
+      "properties": {
+        "title": "JFK zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.366836, -121.925435]
+      },
+      "properties": {
+        "title": "SJC zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.790043, -87.740708]
+      },
+      "properties": {
+        "title": "MDW zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.412673, -81.309707]
+      },
+      "properties": {
+        "title": "MCO zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.2983308, -94.7155698]
+      },
+      "properties": {
+        "title": "KCI zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
     {
       "type": "Feature",
       "geometry": {
@@ -18,20 +190,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [25.795410, -80.275194]
-      },
-      "properties": {
-        "title": "MIA zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [41.979422, -87.902229]
       },
       "properties": {
@@ -40,21 +198,7 @@
         "pitch": 0,
         "bearing": 0
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [41.979422, -87.902229]
-      },
-      "properties": {
-        "title": "CHI zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    
+    },   
     {
       "type": "Feature",
       "geometry": {
@@ -72,20 +216,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [43.682345, -79.610626]
-      },
-      "properties": {
-        "title": "YYZ zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [40.691929, -74.181482]
       },
       "properties": {
@@ -95,20 +225,6 @@
         "bearing": 0
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [40.691929, -74.181482]
-      },
-      "properties": {
-        "title": "EWR zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
     {
       "type": "Feature",
       "geometry": {
@@ -126,20 +242,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [39.878572, -75.242684]
-      },
-      "properties": {
-        "title": "PHL zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [32.897789, -97.040380]
       },
       "properties": {
@@ -149,20 +251,6 @@
         "bearing": 0
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [32.897789, -97.040380]
-      },
-      "properties": {
-        "title": "DFW zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
     {
       "type": "Feature",
       "geometry": {
@@ -180,21 +268,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [45.588465, -122.592213]
-      },
-      "properties": {
-        "title": "PDX zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-    
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [37.61643492261586, -122.38610182431604]
       },
       "properties": {
@@ -204,20 +277,6 @@
         "bearing": 0
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.61643492261586, -122.38610182431604]
-      },
-      "properties": {
-        "title": "SFO zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
     {
       "type": "Feature",
       "geometry": {
@@ -235,20 +294,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [40.645233, -73.784109]
-      },
-      "properties": {
-        "title": "JFK zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [37.366836, -121.925435]
       },
       "properties": {
@@ -258,20 +303,6 @@
         "bearing": 0
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.366836, -121.925435]
-      },
-      "properties": {
-        "title": "SJC zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
     {
       "type": "Feature",
       "geometry": {
@@ -289,20 +320,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [41.790043, -87.740708]
-      },
-      "properties": {
-        "title": "MDW zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [28.412673, -81.309707]
       },
       "properties": {
@@ -316,10 +333,182 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [39.2983308, -94.7155698]
+      },
+      "properties": {
+        "title": "KCI zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.795410, -80.275194]
+      },
+      "properties": {
+        "title": "MIA zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.979422, -87.902229]
+      },
+      "properties": {
+        "title": "CHI zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },   
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.682345, -79.610626]
+      },
+      "properties": {
+        "title": "YYZ zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.691929, -74.181482]
+      },
+      "properties": {
+        "title": "EWR zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.878572, -75.242684]
+      },
+      "properties": {
+        "title": "PHL zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.897789, -97.040380]
+      },
+      "properties": {
+        "title": "DFW zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.588465, -122.592213]
+      },
+      "properties": {
+        "title": "PDX zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.61643492261586, -122.38610182431604]
+      },
+      "properties": {
+        "title": "SFO zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.645233, -73.784109]
+      },
+      "properties": {
+        "title": "JFK zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.366836, -121.925435]
+      },
+      "properties": {
+        "title": "SJC zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.790043, -87.740708]
+      },
+      "properties": {
+        "title": "MDW zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [28.412673, -81.309707]
       },
       "properties": {
         "title": "MCO zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.2983308, -94.7155698]
+      },
+      "properties": {
+        "title": "KCI zoom 16",
         "zoom": 16,
         "pitch": 0,
         "bearing": 0
