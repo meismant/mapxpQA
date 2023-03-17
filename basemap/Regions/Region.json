@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+        	[25.849340, -80.112305],
+          [25.740532, -80.310060],
+        ]
+      },
+      "properties": {
+        "title": "SF",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    }
+  ]
+}

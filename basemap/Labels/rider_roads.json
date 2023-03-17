@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav0-Fill-Motorway] zoom 7",
+        "zoom": 7,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Trunk-Primary] zoom 8",
+        "zoom": 8,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Secondary] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Tertiary] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Residential] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav1-Fill-Parking-Service] zoom 13.5",
+        "zoom": 13.51,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.88616, -87.61768]
+      },
+      "properties": {
+        "title": "[Path] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    }
+  ]
+}

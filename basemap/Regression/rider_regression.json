@@ -1,0 +1,772 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.769337, -122.482218]
+      },
+      "properties": {
+        "title": "no elements zoom 5",
+        "zoom": 5,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.769337, -122.482218]
+      },
+      "properties": {
+        "title": "[not displayed][park_label-rider] Golden gate Park[>=2.5km] zoom 9",
+        "zoom": 9,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.769337, -122.482218]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Golden gate Park[>=2.5km] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.769337, -122.482218]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Golden gate Park[>=2.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.71984366, -122.49264584]
+      },
+      "properties": {
+        "title": "[not displayed][park_label-rider] Lake Merced Park[>=1.5km] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.71984366, -122.49264584]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Lake Merced Park[>=1.5km] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.71984366, -122.49264584]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Lake Merced Park[>=1.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.717437, -122.4175388]
+      },
+      "properties": {
+        "title": "[not displayed][park_label-rider] John McLaren Park[>=0.5km] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.717437, -122.4175388]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] John McLaren Park[>=0.5km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.717437, -122.4175388]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] John McLaren Park[>=0.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7403008, -122.4419932]
+      },
+      "properties": {
+        "title": "[not displayed][park_label-rider] Glen Canyon Park[>=0.08km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7403008, -122.4419932]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Glen Canyon Park[>=0.08km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7403008, -122.4419932]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Glen Canyon Park[>=0.08km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7336734, -122.4208361]
+      },
+      "properties": {
+        "title": "[not displayed][park_label-rider] Saint Mary's Park[>=0.04km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7336734, -122.4208361]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Saint Mary's Park[>=0.04km] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7336734, -122.4208361]
+      },
+      "properties": {
+        "title": "[displayed][park_label-rider] Saint Mary's Park[>=0.04km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.6198851, -121.8491242]
+      },
+      "properties": {
+        "title": "[displayed][beach_label-rider] Monterey State beach[>=0.5km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.6198851, -121.8491242]
+      },
+      "properties": {
+        "title": "[not displayed][beach_label-rider] Monterey State beach[>=0.5km] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.6198851, -121.8491242]
+      },
+      "properties": {
+        "title": "[displayed][beach_label-rider] Monterey State beach[>=0.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7561342, -122.5101962]
+      },
+      "properties": {
+        "title": "[displayed][beach_label-rider] Ocean beach[>=0.2km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7561342, -122.5101962]
+      },
+      "properties": {
+        "title": "[not displayed][beach_label-rider] Ocean beach[>=0.2km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7561342, -122.5101962]
+      },
+      "properties": {
+        "title": "[displayed][beach_label-rider] Ocean beach[>=0.2km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6283484, -122.4948302]
+      },
+      "properties": {
+        "title": "[displayed][beach_label-rider] Shark Park beach[>=0.1km] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6283484, -122.4948302]
+      },
+      "properties": {
+        "title": "[not displayed][beach_label-rider] Shark Park beach[>=0.1km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6283484, -122.4948302]
+      },
+      "properties": {
+        "title": "[displayed][beach_label-rider] Shark Park beach[>=0.1km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0885325, -120.0503511]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Lake Tahoe[>=7.5km] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0885325, -120.0503511]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Lake Tahoe[>=7.5km] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0885325, -120.0503511]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Lake Tahoe[>=7.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.5967606, -122.4262374]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] San Andreas Lake[>=1.25km] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.5967606, -122.4262374]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] San Andreas Lake[>=1.25km] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.5967606, -122.4262374]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] San Andreas Lake[>=1.25km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.4702398, -121.9460853]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Coyote Creek Logoon[>=0.5km] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.4702398, -121.9460853]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Coyote Creek Logoon[>=0.5km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.4702398, -121.9460853]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Coyote Creek Logoon[>=0.5km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.55265335, -122.4282453]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Pilarcitos Lake[>=0.08km] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.55265335, -122.4282453]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Pilarcitos Lake[>=0.08km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.55265335, -122.4282453]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Pilarcitos Lake[>=0.08km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7734193, -122.3943959]
+      },
+      "properties": {
+        "title": "[not displayed][water_label-rider] Mission Creek[>=0.04km] zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7734193, -122.3943959]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Mission Creek[>=0.04km] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.7734193, -122.3943959]
+      },
+      "properties": {
+        "title": "[displayed][water_label-rider] Mission Creek[>=0.04km] zoom 20",
+        "zoom": 20,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.847059, -87.637418]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Motorway-Tunnel][chicago] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav0-Fill-Motorway][chicago] zoom 7",
+        "zoom": 7,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Trunk-Primary][chicago] zoom 8",
+        "zoom": 8,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Secondary][chicago] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Tertiary][chicago] zoom 11",
+        "zoom": 11,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav-1-Fill-Residential][chicago] zoom 12",
+        "zoom": 12,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8792883, -87.641144]
+      },
+      "properties": {
+        "title": "[Nav1-Fill-Parking-Service][chicago] zoom 13.5",
+        "zoom": 13.51,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.88616, -87.61768]
+      },
+      "properties": {
+        "title": "[Path][chicago] zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.6856, -74.1788]
+      },
+      "properties": {
+        "title": "[land_use-airport][NY] zoom 9",
+        "zoom": 9,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.710126, -74.011372]
+      },
+      "properties": {
+        "title": "[land_use-retail][NY] zoom 13",
+        "zoom": 13,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.612507, -74.024972]
+      },
+      "properties": {
+        "title": "[land_use-education][NY] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.55143, -73.92226]
+      },
+      "properties": {
+        "title": "[land_use-beach][land_use-grass][NY] zoom 10",
+        "zoom": 10,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.024, -77.7833]
+      },
+      "properties": {
+        "title": "[land_use-wood][PA] zoom 6",
+        "zoom": 6,
+        "pitch": 0,
+        "bearing": 0
+      }
+    }
+  ]
+}
