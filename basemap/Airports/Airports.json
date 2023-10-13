@@ -1,11 +1,590 @@
 {
   "type": "FeatureCollection",
-  "features": [   
+  "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [25.795410, -80.275194]
+        "coordinates": [
+          33.639954191, 
+          -84.446562096
+        ]
+      },
+      "properties": {
+        "title": "ATL zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.639954191, 
+          -84.446562096
+        ]
+      },
+      "properties": {
+        "title": "ATL zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.639954191, 
+          -84.446562096
+        ]
+      },
+      "properties": {
+        "title": "ATL zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9425,
+          -118.4072
+        ]
+      },
+      "properties": {
+        "title": "LAX zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9425,
+          -118.4072
+        ]
+      },
+      "properties": {
+        "title": "LAX zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9425,
+          -118.4072
+        ]
+      },
+      "properties": {
+        "title": "LAX zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9796,
+          -87.9045
+        ]
+      },
+      "properties": {
+        "title": "ORD zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9796,
+          -87.9045
+        ]
+      },
+      "properties": {
+        "title": "ORD zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9796,
+          -87.9045
+        ]
+      },
+      "properties": {
+        "title": "ORD zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8998,
+          -97.0403
+        ]
+      },
+      "properties": {
+        "title": "DFW zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8998,
+          -97.0403
+        ]
+      },
+      "properties": {
+        "title": "DFW zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8998,
+          -97.0403
+        ]
+      },
+      "properties": {
+        "title": "DFW zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8617,
+          -104.6731
+        ]
+      },
+      "properties": {
+        "title": "DEN zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8617,
+          -104.6731
+        ]
+      },
+      "properties": {
+        "title": "DEN zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8617,
+          -104.6731
+        ]
+      },
+      "properties": {
+        "title": "DEN zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.645233, 
+          -73.784109
+        ]
+      },
+      "properties": {
+        "title": "JFK zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.645233, 
+          -73.784109
+        ]
+      },
+      "properties": {
+        "title": "JFK zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           40.645233, 
+          -73.784109
+        ]
+      },
+      "properties": {
+        "title": "JFK zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.616434922,
+          -122.386101824
+        ]
+      },
+      "properties": {
+        "title": "SFO zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.616434922,
+          -122.386101824
+        ]
+      },
+      "properties": {
+        "title": "SFO zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.616434922,
+          -122.386101824
+        ]
+      },
+      "properties": {
+        "title": "SFO zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.443602428, 
+          -122.302468726
+        ]
+      },
+      "properties": {
+        "title": "SEA zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.443602428, 
+          -122.302468726
+        ]
+      },
+      "properties": {
+        "title": "SEA zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.443602428, 
+          -122.302468726
+        ]
+      },
+      "properties": {
+        "title": "SEA zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.086040348, 
+          -115.149428013
+        ]
+      },
+      "properties": {
+        "title": "LAS zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.086040348, 
+          -115.149428013
+        ]
+      },
+      "properties": {
+        "title": "LAS zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.086040348, 
+          -115.149428013
+        ]
+      },
+      "properties": {
+        "title": "LAS zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4312,
+          -81.3081
+        ]
+      },
+      "properties": {
+        "title": "MCO zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4312,
+          -81.3081
+        ]
+      },
+      "properties": {
+        "title": "MCO zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4312,
+          -81.3081
+        ]
+      },
+      "properties": {
+        "title": "MCO zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2215423, 
+          -80.94404868
+        ]
+      },
+      "properties": {
+        "title": "CLT zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2215423, 
+          -80.94404868
+        ]
+      },
+      "properties": {
+        "title": "CLT zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2215423, 
+          -80.94404868
+        ]
+      },
+      "properties": {
+        "title": "CLT zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.435654059, 
+          -112.004334453
+        ]
+      },
+      "properties": {
+        "title": "PHX zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.435654059, 
+          -112.004334453
+        ]
+      },
+      "properties": {
+        "title": "PHX zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.435654059, 
+          -112.004334453
+        ]
+      },
+      "properties": {
+        "title": "PHX zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.795410, 
+          -80.275194
+        ]
       },
       "properties": {
         "title": "MIA zoom 14",
@@ -18,15 +597,1669 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [41.979422, -87.902229]
+        "coordinates": [
+          25.795410, 
+          -80.275194
+        ]
       },
       "properties": {
-        "title": "CHI zoom 14",
+        "title": "MIA zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.795410, 
+          -80.275194
+        ]
+      },
+      "properties": {
+        "title": "MIA zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.982341684, 
+          -95.342230265
+        ]
+      },
+      "properties": {
+        "title": "IAH zoom 14",
         "zoom": 14,
         "pitch": 0,
         "bearing": 0
       }
-    },   
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.982341684, 
+          -95.342230265
+        ]
+      },
+      "properties": {
+        "title": "IAH zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.982341684, 
+          -95.342230265
+        ]
+      },
+      "properties": {
+        "title": "IAH zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.880897966, 
+          -93.20571837
+        ]
+      },
+      "properties": {
+        "title": "MSP zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         44.880897966, 
+          -93.20571837
+        ]
+      },
+      "properties": {
+        "title": "MSP zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           44.880897966, 
+          -93.20571837
+        ]
+      },
+      "properties": {
+        "title": "MSP zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.208869038,
+          -83.354380266
+        ]
+      },
+      "properties": {
+        "title": "DTW zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.208869038,
+          -83.354380266
+        ]
+      },
+      "properties": {
+        "title": "DTW zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.208869038,
+          -83.354380266
+        ]
+      },
+      "properties": {
+        "title": "DTW zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87945719,
+          -75.242775696
+        ]
+      },
+      "properties": {
+        "title": "PHL zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87945719,
+          -75.242775696
+        ]
+      },
+      "properties": {
+        "title": "PHL zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87945719,
+          -75.242775696
+        ]
+      },
+      "properties": {
+        "title": "PHL zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.691929, 
+          -74.181482
+        ]
+      },
+      "properties": {
+        "title": "EWR zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.691929, 
+          -74.181482
+        ]
+      },
+      "properties": {
+        "title": "EWR zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.691929, 
+          -74.181482
+        ]
+      },
+      "properties": {
+        "title": "EWR zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.366662557, 
+          -71.020097624
+        ]
+      },
+      "properties": {
+        "title": "BOS zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.366662557, 
+          -71.020097624
+        ]
+      },
+      "properties": {
+        "title": "BOS zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.366662557, 
+          -71.020097624
+        ]
+      },
+      "properties": {
+        "title": "BOS zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.78220050, 
+          -111.9837156
+        ]
+      },
+      "properties": {
+        "title": "SLC zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.78220050, 
+          -111.9837156
+        ]
+      },
+      "properties": {
+        "title": "SLC zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.78220050, 
+          -111.9837156
+        ]
+      },
+      "properties": {
+        "title": "SLC zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1821232385, 
+          -76.67138075
+        ]
+      },
+      "properties": {
+        "title": "BWI zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1821232385, 
+          -76.67138075
+        ]
+      },
+      "properties": {
+        "title": "BWI zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1821232385, 
+          -76.67138075
+        ]
+      },
+      "properties": {
+        "title": "BWI zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.730975403, 
+          -117.199262724
+        ]
+      },
+      "properties": {
+        "title": "SAN zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.730975403, 
+          -117.199262724
+        ]
+      },
+      "properties": {
+        "title": "SAN zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.730975403, 
+          -117.199262724
+        ]
+      },
+      "properties": {
+        "title": "SAN zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9531,
+          -77.4565
+        ]
+      },
+      "properties": {
+        "title": "IAD zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9531,
+          -77.4565
+        ]
+      },
+      "properties": {
+        "title": "IAD zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9531,
+          -77.4565
+        ]
+      },
+      "properties": {
+        "title": "IAD zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.790043, 
+          -87.740708
+        ]
+      },
+      "properties": {
+        "title": "MDW zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.790043, 
+          -87.740708
+        ]
+      },
+      "properties": {
+        "title": "MDW zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.790043, 
+          -87.740708
+        ]
+      },
+      "properties": {
+        "title": "MDW zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0721,
+          -80.1447
+        ]
+      },
+      "properties": {
+        "title": "FLL zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0721,
+          -80.1447
+        ]
+      },
+      "properties": {
+        "title": "FLL zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0721,
+          -80.1447
+        ]
+      },
+      "properties": {
+        "title": "FLL zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5898,
+          -122.5951
+        ]
+      },
+      "properties": {
+        "title": "PDX zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5898,
+          -122.5951
+        ]
+      },
+      "properties": {
+        "title": "PDX zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5898,
+          -122.5951
+        ]
+      },
+      "properties": {
+        "title": "PDX zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.52709666, 
+          -98.47408806
+        ]
+      },
+      "properties": {
+        "title": "SAT zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.52709666, 
+          -98.47408806
+        ]
+      },
+      "properties": {
+        "title": "SAT zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.52709666, 
+          -98.47408806
+        ]
+      },
+      "properties": {
+        "title": "SAT zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8497430, 
+          -77.0424600
+        ]
+      },
+      "properties": {
+        "title": "DCA zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8497430, 
+          -77.0424600
+        ]
+      },
+      "properties": {
+        "title": "DCA zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8497430, 
+          -77.0424600
+        ]
+      },
+      "properties": {
+        "title": "DCA zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.978153, 
+          -82.534848
+        ]
+      },
+      "properties": {
+        "title": "TPA zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.978153, 
+          -82.534848
+        ]
+      },
+      "properties": {
+        "title": "TPA zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.978153, 
+          -82.534848
+        ]
+      },
+      "properties": {
+        "title": "TPA zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7139486640, 
+          -122.21099072
+        ]
+      },
+      "properties": {
+        "title": "OAK zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7139486640, 
+          -122.21099072
+        ]
+      },
+      "properties": {
+        "title": "OAK zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7139486640, 
+          -122.21099072
+        ]
+      },
+      "properties": {
+        "title": "OAK zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.13798816, 
+          -86.6672423
+        ]
+      },
+      "properties": {
+        "title": "BNA zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.13798816, 
+          -86.6672423
+        ]
+      },
+      "properties": {
+        "title": "BNA zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.13798816, 
+          -86.6672423
+        ]
+      },
+      "properties": {
+        "title": "BNA zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8781,
+          -78.7921
+        ]
+      },
+      "properties": {
+        "title": "RDU zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8781,
+          -78.7921
+        ]
+      },
+      "properties": {
+        "title": "RDU zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8781,
+          -78.7921
+        ]
+      },
+      "properties": {
+        "title": "RDU zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2983308, 
+          -94.7155698
+        ]
+      },
+      "properties": {
+        "title": "MCI zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2983308, 
+          -94.7155698
+        ]
+      },
+      "properties": {
+        "title": "MCI zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2983308, 
+          -94.7155698
+        ]
+      },
+      "properties": {
+        "title": "MCI zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2025,
+          -97.6656
+        ]
+      },
+      "properties": {
+        "title": "AUS zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2025,
+          -97.6656
+        ]
+      },
+      "properties": {
+        "title": "AUS zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2025,
+          -97.6656
+        ]
+      },
+      "properties": {
+        "title": "AUS zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6454,
+          -95.2767
+        ]
+      },
+      "properties": {
+        "title": "HOU zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6454,
+          -95.2767
+        ]
+      },
+      "properties": {
+        "title": "HOU zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6454,
+          -95.2767
+        ]
+      },
+      "properties": {
+        "title": "HOU zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7173,
+          -86.2944
+        ]
+      },
+      "properties": {
+        "title": "IND zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7173,
+          -86.2944
+        ]
+      },
+      "properties": {
+        "title": "IND zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7173,
+          -86.2944
+        ]
+      },
+      "properties": {
+        "title": "IND zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6787980108, 
+          -117.860792355
+        ]
+      },
+      "properties": {
+        "title": "SNA zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6787980108, 
+          -117.860792355
+        ]
+      },
+      "properties": {
+        "title": "SNA zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6787980108, 
+          -117.860792355
+        ]
+      },
+      "properties": {
+        "title": "SNA zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3627,
+          -121.9291
+        ]
+      },
+      "properties": {
+        "title": "SJC zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3627,
+          -121.9291
+        ]
+      },
+      "properties": {
+        "title": "SJC zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3627,
+          -121.9291
+        ]
+      },
+      "properties": {
+        "title": "SJC zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.691149644, 
+          -121.59082816
+        ]
+      },
+      "properties": {
+        "title": "SMF zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.691149644, 
+          -121.59082816
+        ]
+      },
+      "properties": {
+        "title": "SMF zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.691149644, 
+          -121.59082816
+        ]
+      },
+      "properties": {
+        "title": "SMF zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.996756, 
+          -90.257510
+        ]
+      },
+      "properties": {
+        "title": "MSY zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.996756, 
+          -90.257510
+        ]
+      },
+      "properties": {
+        "title": "MSY zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.996756, 
+          -90.257510
+        ]
+      },
+      "properties": {
+        "title": "MSY zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4915,
+          -80.2325
+        ]
+      },
+      "properties": {
+        "title": "PIT zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4915,
+          -80.2325
+        ]
+      },
+      "properties": {
+        "title": "PIT zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4915,
+          -80.2325
+        ]
+      },
+      "properties": {
+        "title": "PIT zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.045127122,
+          -89.981698244
+        ]
+      },
+      "properties": {
+        "title": "MEM zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.045127122,
+          -89.981698244
+        ]
+      },
+      "properties": {
+        "title": "MEM zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.045127122,
+          -89.981698244
+        ]
+      },
+      "properties": {
+        "title": "MEM zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.049451610, 
+          -106.61901899
+        ]
+      },
+      "properties": {
+        "title": "ABQ zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.049451610, 
+          -106.61901899
+        ]
+      },
+      "properties": {
+        "title": "ABQ zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.049451610, 
+          -106.61901899
+        ]
+      },
+      "properties": {
+        "title": "ABQ zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.934007073, 
+          -78.7287661
+        ]
+      },
+      "properties": {
+        "title": "BUF zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.934007073, 
+          -78.7287661
+        ]
+      },
+      "properties": {
+        "title": "BUF zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.934007073, 
+          -78.7287661
+        ]
+      },
+      "properties": {
+        "title": "BUF zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6832,
+          -80.0968
+        ]
+      },
+      "properties": {
+        "title": "PBI zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6832,
+          -80.0968
+        ]
+      },
+      "properties": {
+        "title": "PBI zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6832,
+          -80.0968
+        ]
+      },
+      "properties": {
+        "title": "PBI zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.882915155, 
+          -80.037970181
+        ]
+      },
+      "properties": {
+        "title": "CHS zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.882915155, 
+          -80.037970181
+        ]
+      },
+      "properties": {
+        "title": "CHS zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.882915155, 
+          -80.037970181
+        ]
+      },
+      "properties": {
+        "title": "CHS zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.060726900, 
+          -117.593630930
+        ]
+      },
+      "properties": {
+        "title": "ONT zoom 14",
+        "zoom": 14,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.060726900, 
+          -117.593630930
+        ]
+      },
+      "properties": {
+        "title": "ONT zoom 15",
+        "zoom": 15,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.060726900, 
+          -117.593630930
+        ]
+      },
+      "properties": {
+        "title": "ONT zoom 16",
+        "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+
     {
       "type": "Feature",
       "geometry": {
@@ -44,165 +2277,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [40.691929, -74.181482]
-      },
-      "properties": {
-        "title": "EWR zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [39.878572, -75.242684]
-      },
-      "properties": {
-        "title": "PHL zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [32.897789, -97.040380]
-      },
-      "properties": {
-        "title": "DFW zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [45.588465, -122.592213]
-      },
-      "properties": {
-        "title": "PDX zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.61643492261586, -122.38610182431604]
-      },
-      "properties": {
-        "title": "SFO zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [40.645233, -73.784109]
-      },
-      "properties": {
-        "title": "JFK zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.366836, -121.925435]
-      },
-      "properties": {
-        "title": "SJC zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [41.790043, -87.740708]
-      },
-      "properties": {
-        "title": "MDW zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [28.412673, -81.309707]
-      },
-      "properties": {
-        "title": "MCO zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [39.2983308, -94.7155698]
-      },
-      "properties": {
-        "title": "KCI zoom 14",
-        "zoom": 14,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.795410, -80.275194]
-      },
-      "properties": {
-        "title": "MIA zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [41.979422, -87.902229]
-      },
-      "properties": {
-        "title": "CHI zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },   
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [43.682345, -79.610626]
       },
       "properties": {
@@ -212,165 +2286,6 @@
         "bearing": 0
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [40.691929, -74.181482]
-      },
-      "properties": {
-        "title": "EWR zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [39.878572, -75.242684]
-      },
-      "properties": {
-        "title": "PHL zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [32.897789, -97.040380]
-      },
-      "properties": {
-        "title": "DFW zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [45.588465, -122.592213]
-      },
-      "properties": {
-        "title": "PDX zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.61643492261586, -122.38610182431604]
-      },
-      "properties": {
-        "title": "SFO zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [40.645233, -73.784109]
-      },
-      "properties": {
-        "title": "JFK zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.366836, -121.925435]
-      },
-      "properties": {
-        "title": "SJC zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [41.790043, -87.740708]
-      },
-      "properties": {
-        "title": "MDW zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [28.412673, -81.309707]
-      },
-      "properties": {
-        "title": "MCO zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [39.2983308, -94.7155698]
-      },
-      "properties": {
-        "title": "KCI zoom 15",
-        "zoom": 15,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-
-
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.795410, -80.275194]
-      },
-      "properties": {
-        "title": "MIA zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [41.979422, -87.902229]
-      },
-      "properties": {
-        "title": "CHI zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },   
     {
       "type": "Feature",
       "geometry": {
@@ -388,11 +2303,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [40.691929, -74.181482]
+        "coordinates": [49.19322, -123.17802]
       },
       "properties": {
-        "title": "EWR zoom 16",
-        "zoom": 16,
+        "title": "YVZ zoom 14",
+        "zoom": 14,
         "pitch": 0,
         "bearing": 0
       }
@@ -401,11 +2316,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [39.878572, -75.242684]
+        "coordinates": [49.19322, -123.17802]
       },
       "properties": {
-        "title": "PHL zoom 16",
-        "zoom": 16,
+        "title": "YVZ zoom 15",
+        "zoom": 15,
         "pitch": 0,
         "bearing": 0
       }
@@ -414,11 +2329,24 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [32.897789, -97.040380]
+        "coordinates": [49.19322, -123.17802]
       },
       "properties": {
-        "title": "DFW zoom 16",
+        "title": "YVZ zoom 16",
         "zoom": 16,
+        "pitch": 0,
+        "bearing": 0
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.13277, -114.00837]
+      },
+      "properties": {
+        "title": "YYC zoom 14",
+        "zoom": 14,
         "pitch": 0,
         "bearing": 0
       }
@@ -427,11 +2355,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [45.588465, -122.592213]
+        "coordinates": [51.13277, -114.00837]
       },
       "properties": {
-        "title": "PDX zoom 16",
-        "zoom": 16,
+        "title": "YYC zoom 15",
+        "zoom": 15,
         "pitch": 0,
         "bearing": 0
       }
@@ -440,79 +2368,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [37.61643492261586, -122.38610182431604]
+        "coordinates": [51.13277, -114.00837]
       },
       "properties": {
-        "title": "SFO zoom 16",
+        "title": "YYC zoom 16",
         "zoom": 16,
         "pitch": 0,
         "bearing": 0
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [40.645233, -73.784109]
-      },
-      "properties": {
-        "title": "JFK zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.366836, -121.925435]
-      },
-      "properties": {
-        "title": "SJC zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [41.790043, -87.740708]
-      },
-      "properties": {
-        "title": "MDW zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [28.412673, -81.309707]
-      },
-      "properties": {
-        "title": "MCO zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [39.2983308, -94.7155698]
-      },
-      "properties": {
-        "title": "KCI zoom 16",
-        "zoom": 16,
-        "pitch": 0,
-        "bearing": 0
-      }
-    },
+    },  
   ]
 }
